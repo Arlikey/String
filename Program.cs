@@ -1,10 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Data;
-using System.Drawing;
-using System.Threading.Channels;
-using System.Transactions;
-
-namespace String
+﻿namespace String
 {
     /*internal class Program
     {
